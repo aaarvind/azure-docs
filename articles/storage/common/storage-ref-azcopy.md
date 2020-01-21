@@ -12,7 +12,7 @@ ms.reviewer: zezha-msft
 
 # azcopy
 
-AzCopy is a command-line tool that moves data into and out of Azure Storage.
+AzCopy is a command-line tool that copies data into and out of Azure Storage.
 
 ## Synopsis
 
